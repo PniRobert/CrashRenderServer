@@ -3,6 +3,7 @@ bin/
 obj/
 packages/
 
+PniRobert.*
 *.dll
 *.exe
 *.user
